@@ -32,7 +32,7 @@ public class TestFilter extends BaseTest{
          for (Result rs:resultScanner){
              System.out.println(rs);
          }
-
          resultScanner.close();
      }
+
 }
